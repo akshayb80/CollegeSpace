@@ -1,0 +1,30 @@
+.supportbody >h1  {
+    display:flexbox;
+    color: black;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    font-size: 45px;
+    
+}
+.supportbody >h1 span{
+    color: #FB2020;
+}
+.supportbody .supportfooter .email {
+    color: #FB2020;
+    text-decoration: underline overline #FB2020;
+    margin-top: 10px;
+    text-underline-offset: 0.4em;
+    
+    
+
+}
+.supportbody .supportfooter>h3{
+    text-align: center;
+    font-size:32px;
+   
+}
+.supportfooter{
+    margin-top: 3%;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router';
-// import "./support.css";
+import "./Support.css";
 
 
 function Support() {
@@ -8,20 +8,25 @@ function Support() {
     return (
         <div className="supportbody">
 
-            <p>We here at CollegeSpace strive to provide you with the best campus experience in VJTI.
-            Here You can find all of your requisites at one single place. For any suggestions or
-            problems
-            </p>
-            <h3>
+            <h1>We here at <span>CollegeSpace</span> strive to provide you
+                with the best campus experience in VJTI.
+                Here You can find all of your requisites
+                at one single place.
+                 For any suggestions or problems
+            </h1>
+
+            <div className="supportfooter"><h3>
                 Contact us on our email
             </h3>
-            <h4>
-                at
-            </h4>
-            <h3>
-                collegespacevjti@gmail.com
+                <h3>
+                    at
             </h3>
+                <h3 className="email">
+                    collegespacevjti@gmail.com
+            </h3>
+            </div>
         </div>
+
 
 
 
