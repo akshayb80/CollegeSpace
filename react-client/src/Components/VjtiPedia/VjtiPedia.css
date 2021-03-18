@@ -1,0 +1,24 @@
+
+.VjtiPedia >img{
+    max-width:100%;
+    height:auto;
+}
+.VjtiPedia > p {
+    color:red;
+    display : flexbox;
+    font-size : x-large;
+    margin-top : 4%;
+    margin-left : 3% ; 
+    margin-right : 3%;
+    float: left;
+    width: 70%;
+}
+form{
+    color: brown;   
+    
+}
+input[type = text]{
+    background-color:whitesmoke;
+  color: #ff2020;
+  margin-top: 10px;
+}
