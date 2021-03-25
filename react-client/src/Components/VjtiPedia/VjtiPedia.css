@@ -2,23 +2,45 @@
 .VjtiPedia >img{
     max-width:100%;
     height:auto;
+    width: 100%;
+    opacity: 0.3;
 }
 .VjtiPedia > p {
-    color:red;
-    display : flexbox;
-    font-size : x-large;
-    margin-top : 4%;
-    margin-left : 3% ; 
-    margin-right : 3%;
-    float: left;
-    width: 70%;
+    color:rgb(24, 46, 32);
+    display : flex;
+    text-align: center;
+    font-size :1.7rem;
+    position:absolute;
+    top: 40%;
+
 }
 form{
-    color: brown;   
+    
+    color:rgb(24, 46, 32);
+    position: absolute;
+    top: 30%;
+    left: 47%;
+    transform: translate(-50%, -50%);  
+    text-indent: 2px;
+    
+    
+
     
 }
 input[type = text]{
     background-color:whitesmoke;
-  color: #ff2020;
-  margin-top: 10px;
+    color: #740808;
+    margin-right: 4px;
+    margin-left: 8px;
+    
+}
+input[type = submit]{
+    margin-left: 4px;
+    border-radius: 10%;
+}
+.VjtiPedia>h1{
+    position:absolute;
+    top:15%;
+    left: 45%;
+    color: rgb(110, 6, 6); 
 }
