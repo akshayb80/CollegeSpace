@@ -26,7 +26,7 @@ const ContentCard_item = (props) => {
               <center>{props.text}</center>
             </h5>
             <h5>
-              <center>{props.description}</center>
+              <center style = {{fontSize: "1vmax"}}>{props.description}</center>
             </h5>
           </div>
         </div>
