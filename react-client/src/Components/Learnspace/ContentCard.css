@@ -97,9 +97,10 @@ h1 {
 
 .cardsl__item__text {
   color: #252e48;
-  font-size: 1.2vmax;
-  line-height: 22px;
+  font-size: 1.5vmax;
+  line-height: 1.5vmax;
 }
+
 
 @media only screen and (min-width: 1200px) {
   .content__blog__container {

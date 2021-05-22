@@ -9,6 +9,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.1",
     "axios": "^0.21.1",
+    "concurrently": "^6.1.0",
     "firebase": "^8.3.1",
     "fuse.js": "^6.4.6",
     "material-ui-search-bar": "^1.0.0",
@@ -24,7 +25,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "react-client": "npm start",
+    "server": "cd .. && cd backend && nodemon server.js",
+    "dev": "concurrently --kill-others-on-fail \"npm run react-client\" \"npm run server\""
   },
   "eslintConfig": {
     "extends": [

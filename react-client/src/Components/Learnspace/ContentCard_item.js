@@ -24,8 +24,9 @@ const ContentCard_item = (props) => {
           >
             <h5 className="cardsl__item__text">
               <center>{props.text}</center>
-
-              <center>{props.description}</center>
+            </h5>
+            <h5>
+              <center style = {{fontSize: "1vmax"}}>{props.description}</center>
             </h5>
           </div>
         </div>
