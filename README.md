@@ -44,7 +44,7 @@ It is a one stop shop for all the academic resources such as the time tables, up
 - Firebase
 - HTML CSS
 
-## :hammer_and_wrench: Project Setup
+<!-- ## :hammer_and_wrench: Project Setup
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ It is a one stop shop for all the academic resources such as the time tables, up
   npm start
   ```
 
-  #### Open http://localhost:3000 with your browser to see the result
+  #### Open http://localhost:3000 with your browser to see the result -->
 
 ## :memo: Learning & Takeaways
 
