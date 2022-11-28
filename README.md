@@ -13,11 +13,6 @@
 - [Prasad Thakare](https://github.com/sans2801)
 - [Purvank Bhiwgade](https://github.com/purvankbhiwgade)
 
-## :man_teacher: Mentors
-
-- [Tejas Jhamnani](https://github.com/Tejas2909)
-- [Vedesh Gawande](https://github.com/vedesh95)
-
 ## :page_with_curl: About the Project
 
 CollegeSpace strives to provide all that one needs to survive the pressures and meet the expectations of being an engineering student.
@@ -67,27 +62,6 @@ It is a one stop shop for all the academic resources such as the time tables, up
   ```
 
   #### Open http://localhost:3000 with your browser to see the result -->
-
-## :memo: Learning & Takeaways
-
-- #### Akshay Bakshi
-  - ReactJS: Major contribution in buidling & styling the UI components.
-  - Form Validation of Login & Signup Pages.
-  - Explored various libraries of JavaScript:
-    - Animate On Scroll (AOS)
-    - Typed.js
-    - Typical.js
-- #### Prasad Thakare
-  - Integrated Firebase with Express backend.
-  - Creating the express Rest API.
-  - User authentication and dealing with user sessions.
-- #### Purvank Bhiwgade
-  - Contribution in creating the Learnspace. Using fuse.js to develop a working dynamic search bar and classifying the result according to the filters.
-  - Worked on Pagination for Internships Page.
-- #### Nikhil Sharma
-  - Contribution in building the UI compoenents using ReactJS.
-  - Learned different frontend techniques to design webpages.
-  - Majorly worked on designing the Internship & Placement stories page.
 
 ## :zap: Future scope
 
